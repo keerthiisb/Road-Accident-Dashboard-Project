@@ -38,6 +38,8 @@ How to Use:
 
 Download or clone the repository to your local machine. Open the Excel workbook (.xlsx) using Microsoft Excel or compatible spreadsheet software. Navigate to the different worksheets to explore various aspects of road accident analysis. Interact with the dashboard components such as charts, tables, and slicers to filter data and gain insights.
 
+Screenshots:
+
 ![Screenshot 2024-12-12 150951](https://github.com/user-attachments/assets/80206516-c631-432c-895e-74c77661c80d)
 ![Screenshot 2024-12-12 151018](https://github.com/user-attachments/assets/2a1f8e58-3734-448b-9cc4-a92ccd8df6fe)
 ![Screenshot 2024-12-12 151038](https://github.com/user-attachments/assets/78158406-858b-4dde-a3c1-33fd7ebe9737)
